@@ -16,17 +16,16 @@
 </p>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🎓 I'm an **Artificial Intelligence (AI) Student** passionate about Data Science and Machine Learning.
-- 💻 I use daily: **.py**, **.cpp**, **.cs**, **.sql**
-- 🛠️ Currently building visual programming and networking projects.
-- 👯 I'm always open to collaborating on open-source AI and software projects.
-- ⚡ Fun fact: I enjoy diving into hardware maintenance and electronics repair in my free time!
+- 🎓 I'm an **Artificial Intelligence (AI) Student**.
+- 💻 I have foundations in **Python**, **C++**, and **Visual Basic (VB.NET)**, and I am continuously learning and expanding my skills.
+- 🌐 Currently learning and improving my **English language** skills to back up my technical journey.
+- 🚀 Highly motivated, driven by ambition, and excited to build my first projects soon!
 
-- 🧑‍💻 Tech & Tools I work with:
+- 🧑‍💻 Tech & Tools I'm learning and using:
 
 <p align="center">
       <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=py,cpp,cs,visualstudio,vscode,mysql,git,github,apple,cisco" />
+            <img src="https://skillicons.dev/icons?i=py,cpp,visualstudio,vscode,git,github" />
       </a>
 </p>
 
