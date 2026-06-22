@@ -1,4 +1,4 @@
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+# 👋🏼 Wisam Baktiar ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 <p align="center">
   <a href="https://x.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" height="30" style="display:inline-block;" />
