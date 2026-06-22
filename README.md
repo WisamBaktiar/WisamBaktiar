@@ -25,8 +25,9 @@
 
 <p align="center">
       <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=py,cpp,visualstudio,vscode,git,github" />
+            <img src="https://skillicons.dev/icons?i=py,cpp,visualstudio,vscode,git,github" style="vertical-align: middle;" />
       </a>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualbasic/visualbasic-original.svg" width="50" height="50" alt="Visual Basic" style="vertical-align: middle; margin-left: 6px; background-color: #1a1b26; padding: 5px; border-radius: 10px;" />
 </p>
 
 ---
